@@ -97,16 +97,10 @@ Supongamos ahora que necesitamos monitorizar un servidor de Virtualización que 
 
 Busca en Internet cuáles son los requisitos y los cuellos de botella habituales y configura un Monitor de rendimiento adecuado.
 
-Avisa al profesor cuando hayas realizado estos tres ejercicios.
-
 ## Ejercicio 4
 
-Por parejas, configurar un monitor de rendimiento que mida 5 indicadores sobre los ficheros compartidos que hemos realizado en prácticas anteriores.
-
-Avisad al profesor cuando hayáis finalizado.
+Configurar un monitor de rendimiento que mida 5 indicadores sobre los ficheros compartidos que hemos realizado en prácticas anteriores.
 
 ## Ejercicio 5 (Ampliación)
 
 Si habéis configurado el iniciador *iSCSI* de Unidades anteriores, preparar un Monitor de rendimiento para visualizar su uso. 
-
-
