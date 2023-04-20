@@ -59,8 +59,6 @@ En el caso de que aparezca el error que ha aparecido en la imágen anterior, el 
 
 Para verificar que el problema ha desaparecido, vuelve a ejecutar el _Recopilador_.
 
-Avisa al profesor cuando lo hayas solucionado.
-
 ## Ejercicio 3
 
 Respecto a la seguridad, a nivel _Informativo_ nos indica que no tenemos instalado ningún _Antivirus_. ¿Qué podemos hacer?
